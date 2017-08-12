@@ -1,1 +1,3 @@
-# Investigate_a_-Dataset
+# Investigate a Dataset
+
+using titanic-data
